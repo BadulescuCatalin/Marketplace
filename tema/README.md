@@ -41,7 +41,7 @@ bine python si paralelizarea in python, dar am ivatat sa fac si unittesting
 si logging.
     -Am mai multe comentarii utile in cod
 
-Github:
+Github: https://github.com/BadulescuCatalin/Marketplace
 
 
 
